@@ -1,0 +1,26 @@
+#main-form {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  
+}
+main section {
+  float: left;
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-bottom: 15px;
+}
+#blok2 {
+  width: 294px;
+  margin-left: 0;
+  height: 100px;
+}
+#blok3 {
+  width: 151px;
+  height: 100px;
+}
+#blok4 {
+  width: 396px;
+  height: 100px;
+}
